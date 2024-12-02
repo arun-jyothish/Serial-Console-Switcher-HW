@@ -1,0 +1,11 @@
+* Serial Console Switcher (HW)
+
+** Description:
+	Multiple UART port Switcher PCB design.
+	USB pendrive sized PCB which converts USB to 4 TTL(UART) they can are multiplexed
+	and tactile switches are provided for their selection.
+
+** Software and Tools required:
+	+ KiCAD 7.0
+	+ Minicom
+	+ Linux/Distro
